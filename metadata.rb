@@ -4,9 +4,8 @@ maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures sbt-package'
 long_description 'Installs/Configures sbt-package'
-version '0.1.0'
+version '0.1.1'
 
 
 depends 'apt'
 depends 'yum'
-depends 'java'
